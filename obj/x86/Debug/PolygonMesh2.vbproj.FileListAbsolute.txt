@@ -1,0 +1,23 @@
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\bin\Debug\PolygonMesh2.exe
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\bin\Debug\PolygonMesh2.pdb
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\bin\Debug\PolygonMesh2.xml
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.Form1.resources
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.Resources.resources
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.vbproj.GenerateResource.Cache
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.exe
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.xml
+D:\Copied\7th semester\3D CGA\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.pdb
+D:\Copied\7th semester\3D CGA\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.exe
+D:\Copied\7th semester\3D CGA\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.xml
+D:\Copied\7th semester\3D CGA\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2\PolygonMesh2\obj\x86\Debug\PolygonMesh2.pdb
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\bin\Debug\PolygonMesh2.exe
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\bin\Debug\PolygonMesh2.pdb
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\bin\Debug\PolygonMesh2.xml
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.vbprojResolveAssemblyReference.cache
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.Form1.resources
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.Resources.resources
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.vbproj.GenerateResource.cache
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.vbproj.CoreCompileInputs.cache
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.exe
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.xml
+D:\3D CGA Programming Assignment 7 (Revision)\PolygonMesh2 - List of vertex indices [Revised Code]\PolygonMesh2\obj\x86\Debug\PolygonMesh2.pdb
